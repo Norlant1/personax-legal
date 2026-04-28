@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Persona X · Legal</title>
+<style>
+:root {
+  --bg: #0a0a0a;
+  --surface: #14141a;
+  --border: #2a2a32;
+  --primary: #8b5cf6;
+  --primary-light: #a78bfa;
+  --text: #f5f5f7;
+  --text-muted: #9a9aa6;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", Roboto, sans-serif;
+  line-height: 1.55;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 20px;
+}
+.brand {
+  font-size: 11px;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: var(--primary-light);
+  margin-bottom: 16px;
+  text-transform: uppercase;
+}
+.brand .accent { color: var(--primary); }
+h1 {
+  font-size: 36px;
+  letter-spacing: -0.02em;
+  margin: 0 0 8px;
+  font-weight: 700;
+}
+.subtitle {
+  color: var(--text-muted);
+  margin-bottom: 36px;
+  font-size: 15px;
+}
+.cards {
+  display: grid;
+  gap: 14px;
+  width: 100%;
+  max-width: 480px;
+}
+a.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  text-decoration: none;
+  color: var(--text);
+  transition: border-color 0.15s, transform 0.1s;
+}
+a.card:hover {
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+a.card .label { font-weight: 600; font-size: 16px; }
+a.card .arrow { color: var(--text-muted); font-size: 20px; }
+.foot {
+  margin-top: 40px;
+  font-size: 12px;
+  color: var(--text-muted);
+  text-align: center;
+}
+.foot a { color: var(--primary-light); text-decoration: none; }
+.foot a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<div class="brand">PERSONA<span class="accent">.</span>X</div>
+<h1>Legal</h1>
+<p class="subtitle">Persona X — Build your own AI. Documents covering how the app works for you and your data.</p>
+<div class="cards">
+  <a class="card" href="privacy/"><span class="label">Privacy Policy</span><span class="arrow">&rsaquo;</span></a>
+  <a class="card" href="terms/"><span class="label">Terms of Service</span><span class="arrow">&rsaquo;</span></a>
+</div>
+<p class="foot">Questions? <a href="mailto:jobenbarrera@gmail.com">jobenbarrera@gmail.com</a></p>
+</body>
+</html>
