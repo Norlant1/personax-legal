@@ -2,7 +2,7 @@
 
 **Last updated:** April 28, 2026
 
-This Privacy Policy describes how **Persona X** ("we", "us", or "our") collects, uses, and shares information about you when you use the Persona X mobile application and related services (the "App").
+This Privacy Policy describes how **PersonaX AI** ("we", "us", or "our") collects, uses, and shares information about you when you use the PersonaX AI mobile application and related services (the "App").
 
 If you do not agree with this Policy, please do not use the App.
 
@@ -10,7 +10,7 @@ If you do not agree with this Policy, please do not use the App.
 
 ## 1. Who we are
 
-Persona X is operated by Joben Barrera, an independent developer based in the Republic of the Philippines.
+PersonaX AI is operated by Joben Barrera, an independent developer based in the Republic of the Philippines.
 
 For any questions about this Policy, contact us at **jobenbarrera@gmail.com**.
 

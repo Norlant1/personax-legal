@@ -1,6 +1,6 @@
-# Persona X — Legal pages
+# PersonaX AI — Legal pages
 
-Static site hosted on GitHub Pages serving the Privacy Policy and Terms of Service for the [Persona X](https://github.com/Norlant1/first-steps-folder) mobile app.
+Static site hosted on GitHub Pages serving the Privacy Policy and Terms of Service for the [PersonaX AI](https://github.com/Norlant1/first-steps-folder) mobile app.
 
 ## Live URLs
 

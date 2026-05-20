@@ -2,7 +2,7 @@
 
 **Last updated:** April 28, 2026
 
-These Terms of Service ("Terms") govern your use of the **Persona X** mobile application and related services (the "App"), provided by Joben Barrera ("we", "us", or "our"), an independent developer based in the Republic of the Philippines.
+These Terms of Service ("Terms") govern your use of the **PersonaX AI** mobile application and related services (the "App"), provided by Joben Barrera ("we", "us", or "our"), an independent developer based in the Republic of the Philippines.
 
 By creating an account or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
